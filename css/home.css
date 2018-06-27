@@ -1,8 +1,23 @@
 #main-header{
   text-align:center;
   background-color: blanchedalmond;
-  color:white;
+  color:darkgrey;
   padding:10px;
+  border: 5px white solid;
 }
-
+body{
+  background-color:rgb(235, 232, 232);
+  line-height: 1.9em;
+}
+.box-1{
+  background-color:blanchedalmond;
+  border-right: 5px white solid;
+  border-bottom: 5px white solid;
+  border-top:5px white solid;
+  border-left:5px white solid;
+}
+.container{
+  width:500px
+  margin: auto;
+}
           
