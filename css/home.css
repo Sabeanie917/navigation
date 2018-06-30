@@ -1,9 +1,10 @@
 #main-header{
   text-align:center;
   background-color: blanchedalmond;
-  color:darkgrey;
+  color:maroon;
   padding:10px;
   border: 5px white solid;
+  letter-spacing:0.5em; 
 }
 body{
   background-color:rgb(235, 232, 232);
@@ -16,8 +17,29 @@ body{
   border-top:5px white solid;
   border-left:5px white solid;
 }
+a{
+  text-decoration: none;
+  color:maroon;
+}
+a:active{
+  color: brown
+}
+a:hover{
+  color: lightgray;
+}
 .container{
   width:500px
   margin: auto;
+}
+.button{
+  margin-right: 120px;
+  margin-left: 120px;
+}
+.title{
+  text-align: center;
+}
+.words{
+  margin-right: 100px;
+  margin-left:100px
 }
           
