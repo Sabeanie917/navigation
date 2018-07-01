@@ -1,14 +1,22 @@
 #main-header{
   text-align:center;
-  background-color: blanchedalmond;
   color:maroon;
-  padding:10px;
-  border: 5px white solid;
+  padding:0px;
   letter-spacing:0.5em; 
 }
-body{
-  background-color:rgb(235, 232, 232);
-  line-height: 1.9em;
+.myname{
+  float:left;
+}
+.navone{
+  float:right;
+}
+.p-box{
+  width:100%px;
+  height:300px;
+  border:0px;
+  background-color: blanchedalmond;
+  background-image: images/backdrop.jpg;
+}
 }
 .box-1{
   background-color:blanchedalmond;
@@ -32,8 +40,8 @@ a:hover{
   margin: auto;
 }
 .button{
-  margin-right: 120px;
-  margin-left: 120px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 .title{
   text-align: center;
