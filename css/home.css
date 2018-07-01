@@ -53,4 +53,20 @@ a:hover{
 .photo{
    
 }
+.fix-me{
+  position:fixed;
+  top:402px;
+  left:.5px;
+}
+.fix-metoo{
+  position:fixed;         
+  top:450px;
+  left: .5px;
+}
+.fix-methree{
+  position:fixed;
+  top: 495px;
+  left:.5px;
+}
+
           
