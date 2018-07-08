@@ -13,8 +13,6 @@
   float:right;
   margin-top:10px;
 }
-
-
 .p-box{
   width:100vw;
   height:300px;
@@ -24,7 +22,6 @@
   background-repeat: no-repeat;
   padding: 0px;
   margin:-10px;
-  
 }
 }
 .box-1{
@@ -77,6 +74,9 @@ a:hover{
   position:fixed;
   top: 495px;
   left:.5px;
+}
+.background-color{
+  background-color: blue;
 }
 
 
