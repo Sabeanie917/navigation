@@ -3,19 +3,24 @@
   color:maroon;
   padding:0px;
   letter-spacing:0.5em; 
+  width:100%;
 }
 .myname{
   float:left;
+  margin-left: 20px;
 }
 .navone{
   float:right;
+  margin-top:10px;
 }
+
+
 .p-box{
-  width:100%px;
+  width:100vw;
   height:300px;
-  border:0px;
-  background-color: blanchedalmond;
-  background-image: images/backdrop.jpg;
+  background-image:url('../images/backdrop.jpg'); 
+  padding: 0px;
+  margin:-10px;
 }
 }
 .box-1{
@@ -36,7 +41,7 @@ a:hover{
   color: lightgray;
 }
 .container{
-  width:500px
+  width:500px;
   margin: auto;
 }
 .button{
@@ -51,12 +56,13 @@ a:hover{
   margin-left:100px
 }
 .photo{
-   
+   width: 100%;
 }
 .fix-me{
   position:fixed;
   top:402px;
   left:.5px;
+  border: #000000, 2px;
 }
 .fix-metoo{
   position:fixed;         
@@ -68,5 +74,6 @@ a:hover{
   top: 495px;
   left:.5px;
 }
+
 
           
